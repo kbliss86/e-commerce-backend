@@ -1,9 +1,9 @@
+// Purpose: Sequelize model for Tag table
 const { Model, DataTypes } = require('sequelize');
-
 const sequelize = require('../config/connection.js');
 
 class Tag extends Model {}
-
+// Tag model
 Tag.init(
   {
     id: {

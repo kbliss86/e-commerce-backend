@@ -1,5 +1,6 @@
+//required files
 const { Category } = require('../models');
-
+//category data to seed
 const categoryData = [
   {
     category_name: 'Shirts',

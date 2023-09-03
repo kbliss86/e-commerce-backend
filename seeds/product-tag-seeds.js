@@ -1,5 +1,6 @@
+//requiering the models
 const { ProductTag } = require('../models');
-
+//product tag data to seed
 const productTagData = [
   {
     product_id: 1,
