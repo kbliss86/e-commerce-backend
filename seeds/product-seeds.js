@@ -1,5 +1,6 @@
+//required files
 const { Product } = require('../models');
-
+//product data to seed
 const productData = [
   {
     product_name: 'Plain T-Shirt',

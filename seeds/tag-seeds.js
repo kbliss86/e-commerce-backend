@@ -1,5 +1,6 @@
+//required files
 const { Tag } = require('../models');
-
+//tag data to seed
 const tagData = [
   {
     tag_name: 'rock music',
